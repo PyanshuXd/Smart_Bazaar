@@ -7,4 +7,6 @@ To conduct a comprehensive analysis of Smart Bazaar's sales performance, custome
 - Number of Items : The total count of different items sold.
 - Average Rating : The average customer ratings for items sold.
 
-![Dashboard](https://github.com/PyanshuXd/Customers_Churn/blob/0e1e552203b3558993c80095f27030bcbf01713a/Outputs/Reducing%20Customer%20Churn%20Rate.webp)
+## Dashboard:
+
+![Dashboard](https://github.com/PyanshuXd/Smart_Bazaar/blob/48bfe5a3ae645aac761122686b6fa22f601c51b7/Images%20Used/Dashboard.png)
